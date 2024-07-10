@@ -3,11 +3,6 @@
 
 This is a simple authentication demo that uses Azure Active Directory
 
-## Authentication Flow
-
-
-<img src="./.github/assets/authentication-flow.png" alt="Authentication Flow" />
-
 ## Single Page Aplication
 
 Angular 9 SPA sample that authenticate users in Azure AD B2C and calls the Spring Boot (Java) and Nodejs APIs.
